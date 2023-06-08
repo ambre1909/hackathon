@@ -1,0 +1,13 @@
+08-06-2023 	 23:06:30	GET	/api/user/categories	http://127.0.0.1:5173
+08-06-2023 	 23:06:30	GET	/api/user/categories	http://127.0.0.1:5173
+08-06-2023 	 23:06:29	GET	/api/user/categories	http://127.0.0.1:5173
+08-06-2023 	 23:06:29	GET	/api/user/categories	http://127.0.0.1:5173
+08-06-2023 	 23:06:27	GET	/api/user/categories	http://127.0.0.1:5173
+08-06-2023 	 23:06:27	GET	/api/user/categories	http://127.0.0.1:5173
+08-06-2023 	 23:06:05	GET	/api/user/allproducts	http://127.0.0.1:5173
+08-06-2023 	 23:06:05	GET	/api/user/categories	http://127.0.0.1:5173
+08-06-2023 	 23:06:05	GET	/api/user/allproducts	http://127.0.0.1:5173
+08-06-2023 	 23:06:05	GET	/api/user/categories	http://127.0.0.1:5173
+08-06-2023 	 23:05:56	DELETE	/api/user/delete-product/6482116efce54d6afbe9596f	http://127.0.0.1:5173
+08-06-2023 	 23:05:56	OPTIONS	/api/user/delete-product/6482116efce54d6afbe9596f	http://127.0.0.1:5173
+08-06-2023 	 23:05:53	GET	/api/user/allproducts	http://127.0.0.1:5173
